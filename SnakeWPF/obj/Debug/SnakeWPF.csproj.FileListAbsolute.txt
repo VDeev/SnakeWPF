@@ -1,0 +1,14 @@
+D:\Downloads\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.exe.config
+D:\Downloads\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.exe
+D:\Downloads\SnakeWPF\SnakeWPF\bin\Debug\SnakeWPF.pdb
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csprojAssemblyReference.cache
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\View\SnakeView.baml
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\View\SnakeView.g.cs
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\App.g.cs
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF_MarkupCompile.cache
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.g.resources
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.Properties.Resources.resources
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csproj.GenerateResource.cache
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.csproj.CoreCompileInputs.cache
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.exe
+D:\Downloads\SnakeWPF\SnakeWPF\obj\Debug\SnakeWPF.pdb
